@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualize", "Visualize", "{895913B6-A702-4A46-983E-F73A88A2679D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeWindowShortcuts", "CodeWindowShortcuts", "{895913B6-A702-4A46-983E-F73A88A2679D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipsConsole", "TipsConsole\TipsConsole.csproj", "{40A07DA9-64B4-48AB-84DD-2303E479DCF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipsConsole", "TipsConsole\TipsConsole.csproj", "{40A07DA9-64B4-48AB-84DD-2303E479DCF9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLib", "DataLib\DataLib.csproj", "{EC21DA56-3314-4113-A76E-E1B726787573}"
 EndProject
